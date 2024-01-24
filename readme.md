@@ -1,6 +1,6 @@
 I'm a software engineer 🇫🇷
 
-[![Linkedin](https://img.shields.io/linkedin)](https://www.linkedin.com/in/christophermoron/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Christopher_Moron-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/christophermoron/)
 
 ---
 
