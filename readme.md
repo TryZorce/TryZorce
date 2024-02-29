@@ -16,6 +16,11 @@ Feel free to explore the projects I've completed during my training! 😊
 
 If you want to learn more about my skills, discuss potential collaborations, or just exchange ideas, feel free to contact me. I'm open to professional opportunities and always ready to contribute to exciting projects.
 
+
+**Explore my projects and contact me for more information!**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Christopher_Moron-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/christophermoron/)
+
 ## Skills
 
 | Stack             |                                                                |
@@ -38,10 +43,6 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 |Design| ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&amp;logo=Figma&amp;logoColor=white) |
 
 
-
-**Explore my projects and contact me for more information!**
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Christopher_Moron-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/christophermoron/)
 
 | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TryZorce&theme=github) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TryZorce&theme=github) |
 | --- | --- |
