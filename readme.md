@@ -21,7 +21,7 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 | Languages |  |
 |:---------:|:----------:|
 | JavaScript| |
-| PHP       | <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" width="40" height="40"/> |
+| PHP       | https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E|
 | Database  |  |
 | CSS       |  |
 | Other     |  |
