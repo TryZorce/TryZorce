@@ -8,7 +8,7 @@
 
 ## My Projects
 
-Feel free to explore the projects I've completed during my training! 😊
+Feel free to explore the projects I've completed during my DWWM or CDA training! 😊
 
 ## Contact
 
@@ -17,9 +17,9 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 ## Skills
 
 - Languages: 
-   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>  <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"/> 
 - Frameworks: 
-   <img src="https://img.icons8.com/office/40/000000/react.png"/> React <img src="https://img.icons8.com/fluency/48/000000/symfony.png"/> Symfony
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="20" height="20"/>
 - Tools: 
   - Github 
   - VS Code 
