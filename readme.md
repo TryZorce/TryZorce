@@ -26,6 +26,7 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 | CSS       | <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"  alt="SASS"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">|
 | Other     | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white" alt="GitHub Actions"> |
 
+
 ## Tools
 | Tools |  |
 |:---------:|:----------:|
