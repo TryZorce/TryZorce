@@ -8,7 +8,7 @@
 
 ## My Projects
 
-Feel free to explore the projects I've completed during my DWWM or CDA training! 😊
+Feel free to explore the projects I've completed during my training! 😊
 
 ## Contact
 
@@ -16,18 +16,18 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 
 ## Skills
 
-- Languages: 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20"/> TypeScript 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20" height="20"/> PHP
-- Frameworks: 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="20" height="20"/> React 
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" width="20" height="20"/> Symfony
-- Tools: 
-  - Github 
-  - VS Code 
-  - Figma 
-  - Notion 
-  - Trello
+| Languages | Frameworks |
+|-----------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"/> TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30"/> React |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"/> PHP | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" width="30" height="30"/> Symfony |
+
+## Tools
+
+- Github 
+- VS Code 
+- Figma 
+- Notion 
+- Trello
 
 **Explore my projects and contact me for more information!**
 
