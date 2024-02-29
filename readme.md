@@ -1,4 +1,4 @@
-# Application Developer 🇫🇷
+# Application Developer
 
 👨‍💻 Application Developer based in France, in Aix-Les-Bains, SAVOIE 🇫🇷.
 
