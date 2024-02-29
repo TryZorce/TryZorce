@@ -20,8 +20,8 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 
 | Languages |  |
 |:---------:|:----------:|
-| JavaScript| <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original-wordmark.svg" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>|
-| PHP       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" width="40" height="40"/> |
+| JavaScript| |
+| PHP       | <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" width="40" height="40"/> |
 | Database  |  |
 | CSS       |  |
 | Other     |  |
