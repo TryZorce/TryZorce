@@ -1,30 +1,39 @@
-# Concepteur Développeur D'application 🇫🇷
+# Application Developer 🇫🇷
 
-👨‍💻 Concepteur Développeur d'Applications basé en France, à Aix-Les-Bains, SAVOIE.
+👨‍💻 Application Developer based in France, in Aix-Les-Bains, SAVOIE.
 
-✅ Diplômé en Développement Web & Mobile de Simplon Chambéry 
+✅ Graduated in Web & Mobile Development from Simplon Chambéry
 
-⏳ Actuellement en formation en tant que Concepteur Développeur d'Applications à Simplon Grenoble 
+⏳ Currently undergoing training as an Application Developer at Simplon Grenoble
 
-## Mes Projets
+## My Projects
 
-N'hésitez pas à explorer les projets que j'ai réalisés pendant mes formations DWWM ou CDA ! 😊
+Feel free to explore the projects I've completed during my training! 😊
 
 ## Contact
 
-Si vous souhaitez en savoir plus sur mes compétences, discuter de collaborations potentielles, ou simplement échanger des idées, n'hésitez pas à me contacter. Je suis ouvert aux opportunités professionnelles et toujours prêt à contribuer à des projets passionnants.
+If you want to learn more about my skills, discuss potential collaborations, or just exchange ideas, feel free to contact me. I'm open to professional opportunities and always ready to contribute to exciting projects.
 
-## Compétences
+## Skills
 
-- Langages: TypeScript, PHP
-- Frameworks: React, Symfony
-- Outils: Github, VS Code , Figma , Notion , Trello
+- Languages: 
+  - <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript 
+  - <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> PHP
+- Frameworks: 
+  - <img src="https://img.icons8.com/office/40/000000/react.png"/> React 
+  - <img src="https://img.icons8.com/fluency/48/000000/symfony.png"/> Symfony
+- Tools: 
+  - Github 
+  - VS Code 
+  - Figma 
+  - Notion 
+  - Trello
 
-
-**Explorez mes projets et contactez-moi pour plus d'informations !**
+**Explore my projects and contact me for more information!**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Christopher_Moron-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/christophermoron/)
 
- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TryZorce&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TryZorce&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
 | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TryZorce&theme=github) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TryZorce&theme=github) |
 | --- | --- |
