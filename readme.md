@@ -1,6 +1,6 @@
 # Application Developer 🇫🇷
 
-👨‍💻 Application Developer based in France, in Aix-Les-Bains, SAVOIE.
+👨‍💻 Application Developer based in France, in Aix-Les-Bains, SAVOIE 🇫🇷.
 
 ✅ Graduated in Web & Mobile Development from Simplon Chambéry
 
@@ -17,9 +17,9 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 ## Skills
 
 | Languages | Frameworks |
-|-----------|------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>  |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" width="40" height="40"/>  |
+|:---------:|:----------:|
+| <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" width="40" height="40"/> |
 
 ## Tools
 
@@ -33,7 +33,4 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Christopher_Moron-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/christophermoron/)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TryZorce&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-| ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TryZorce&theme=github) | ![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TryZorce&theme=github) |
-| --- | --- |
+[
