@@ -6,6 +6,8 @@
 
 ⏳ Currently undergoing training as an Application Developer at Simplon Grenoble
 
+## I'm actively looking for an internship starting from June 17th to October 11th 2024.
+
 ## My Projects
 
 Feel free to explore the projects I've completed during my training! 😊
