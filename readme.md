@@ -34,8 +34,9 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 ## Tools
 | Tools |  |
 |:---------:|:----------:|
-|Organisation| <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white" alt="Trello">|
-|Design| <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&amp;logo=Figma&amp;logoColor=white" alt="Figma"> |
+|Organisation| ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&amp;logo=notion&amp;logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&amp;logo=Trello&amp;logoColor=white)|
+|Design| ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&amp;logo=Figma&amp;logoColor=white) |
+
 
 
 **Explore my projects and contact me for more information!**
