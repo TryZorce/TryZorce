@@ -17,11 +17,9 @@ If you want to learn more about my skills, discuss potential collaborations, or 
 ## Skills
 
 - Languages: 
-  - <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript 
-  - <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> PHP
+   <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript  <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/> PHP
 - Frameworks: 
-  - <img src="https://img.icons8.com/office/40/000000/react.png"/> React 
-  - <img src="https://img.icons8.com/fluency/48/000000/symfony.png"/> Symfony
+   <img src="https://img.icons8.com/office/40/000000/react.png"/> React <img src="https://img.icons8.com/fluency/48/000000/symfony.png"/> Symfony
 - Tools: 
   - Github 
   - VS Code 
